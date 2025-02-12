@@ -1,7 +1,7 @@
 # My Portfolio
 Welcome to my portfolio! This project showcases my skills, projects, and experiences as a web developer.
 
-### Weblink: [Live Website](https://sasthachanda.netlify.app)
+### Weblink: [Live Website](https://sastha.netlify.app)
 ## Some Images:
 <img width="450px;" src="https://github.com/sasthachanda/sastha-chanda-portfolio/assets/64485885/4774dc30-1c1c-4c6c-b23b-019f3481713e"/>
 <img width="450px;" src="https://github.com/sasthachanda/sastha-chanda-portfolio/assets/64485885/0a33349f-262d-4720-afed-7afc0dfd85a5"/>
